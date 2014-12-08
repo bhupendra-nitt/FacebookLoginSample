@@ -19,8 +19,7 @@ import com.facebook.android.FacebookError;
 
 
 public class MainActivity extends Activity {
-	private static String APP_ID = "1527778607463068"; // Replace your App ID here
-
+	private static String APP_ID = " Replace your App ID here"; 
 	// Instance of Facebook Class
 	private Facebook facebook;
 	private AsyncFacebookRunner mAsyncRunner;
